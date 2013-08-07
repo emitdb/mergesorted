@@ -1,0 +1,27 @@
+{
+  "name": "mergesorted",
+  "version": "0.0.0",
+  "description": "returns the interception of two ordered arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dscape/mergesorted.git"
+  },
+  "keywords": [
+    "union",
+    "interception",
+    "merge",
+    "sort",
+    "sorted",
+    "arrays",
+    "lists"
+  ],
+  "author": "nuno job (nunojobpinto@gmail.com)",
+  "license": "apache2",
+  "bugs": {
+    "url": "https://github.com/dscape/mergesorted/issues"
+  }
+}
