@@ -1,6 +1,6 @@
 # mergesorted
 
-Returns the interception of two **ordered** arrays
+returns the interception of two **ordered** arrays
 
 ``` js
 var mergesorted = require('mergesorted');
