@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/dscape/mergesorted.git"
+    "url": "git://github.com/emitdb/mergesorted.git"
   },
   "keywords": [
     "union",
@@ -22,6 +22,6 @@
   "author": "nuno job (nunojobpinto@gmail.com)",
   "license": "apache2",
   "bugs": {
-    "url": "https://github.com/dscape/mergesorted/issues"
+    "url": "https://github.com/emitdb/mergesorted/issues"
   }
 }
